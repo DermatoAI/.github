@@ -30,7 +30,7 @@ Hi everyone! We are from CH2-PS193. We consist of 7 people and these are my team
 | A671B4NY2594 | Muammar Zaki | Mobile Development | Universitas Islam Negeri Ar-Raniry Banda Aceh | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muammar-zaki-b6387a2a0) | [![text](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muammarzaki) |
 
 
-Team Repository 
+Team Repositorys
 --
 | Team Name | Repository | Documentation | 
 | -- | -- | -- |
