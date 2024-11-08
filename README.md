@@ -28,3 +28,11 @@ Hi everyone! We are from CH2-PS193. We consist of 7 people and these are my team
 | C764B4KX4337 | Tia Pelisa | Cloud Computing | Sekolah Tinggi Teknologi Bandung | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tia-pelisa-85b94b2ba) |[![text](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiaaapls)|
 | A322B4KX4383 | Uswatun Hasanah | Mobile Development | Universitas Syiah Kuala | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uswatun-hasanah-7bb13328b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |[![text](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uswtunhsnahh) |
 | A671B4NY2594 | Muammar Zaki | Mobile Development | Universitas Islam Negeri Ar-Raniry Banda Aceh | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muammar-zaki-b6387a2a0) | [![text](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muammarzaki) |
+
+
+Team Repository 
+| Team Name | Repository | Documentation | 
+| -- | -- | -- |
+| Machine Learning | https://github.com/DermatoAI/Dermato.AI-ML | |
+| Cloud Computing | https://github.com/DermatoAI/Dermato.AI-CC | |
+| Mobile Development | https://github.com/DermatoAI/Dermato.AI-MD| |
