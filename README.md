@@ -2,7 +2,7 @@ Capstone Bangkit Academy Dermato.AI
 ==
 ## Overview
 
-<p align="justify">someting that awesomes</p>
+<p align="justify">Dermato.AI is a platform aimed at improving skin health through machine learning technology. Utilized learning algorithms, Dermato.AI helps identify skin conditions quickly and accurately, providing added value for patients and healthcare practitioners. This initiative has great potential to accelerate the diagnostic process and enhance services in the field of dermatology.</p>
 
 Team Members
 --
