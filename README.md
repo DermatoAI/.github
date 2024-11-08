@@ -31,6 +31,7 @@ Hi everyone! We are from CH2-PS193. We consist of 7 people and these are my team
 
 
 Team Repository 
+--
 | Team Name | Repository | Documentation | 
 | -- | -- | -- |
 | Machine Learning | https://github.com/DermatoAI/Dermato.AI-ML | |
