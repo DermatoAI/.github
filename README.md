@@ -34,6 +34,6 @@ Team Repositorys
 --
 | Team Name | Repository | Documentation | 
 | -- | -- | -- |
-| Machine Learning | https://github.com/DermatoAI/Dermato.AI-ML | |
-| Cloud Computing | https://github.com/DermatoAI/Dermato.AI-CC | |
-| Mobile Development | https://github.com/DermatoAI/Dermato.AI-MD| |
+| Machine Learning | https://github.com/DermatoAI/Dermato.AI-ML | [![text](https://img.shields.io/badge/Docs-808080?style=for-the-badge&logo=markdown&logoColor=white)](https://dermatoai.github.io/DermatoAI/) |
+| Cloud Computing | https://github.com/DermatoAI/Dermato.AI-CC | [![text](https://img.shields.io/badge/Docs-808080?style=for-the-badge&logo=markdown&logoColor=white)](https://dermatoai.github.io/DermatoAI/)  |
+| Mobile Development | https://github.com/DermatoAI/Dermato.AI-MD|[![text](https://img.shields.io/badge/Docs-808080?style=for-the-badge&logo=markdown&logoColor=white)](https://dermatoai.github.io/DermatoAI/) |
