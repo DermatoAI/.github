@@ -17,7 +17,7 @@ Team Members
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Hi everyone! We are from CH2-PS193. We consist of 7 people and these are my team members:
+Hi everyone! We are from C242-PS197. We consist of 7 people and these are my team members:
 
 | Bangkit ID | Name     | Learning Path | University  |LinkedIn | Github |
 | ---        | ---      | ---           | ---         | ---       |---    |
